@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [SportyBuddiesAPI](https://github.com/tbaran2001/SportyBuddiesAPI) and [react-sportybuddies](https://github.com/tbaran2001/react-sportybuddies)
 
-- 🌱 I’m currently learning **ASP .Net Core and React**
+- 🌱 I’m currently learning **ASP .Net and React**
 
 - 📫 How to reach me **barantomasz2001@gmail.com**
 
