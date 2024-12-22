@@ -2,9 +2,9 @@
 <h3 align="center">A computer science student from Poland</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [SportyBuddiesAPI](https://github.com/tbaran2001/SportyBuddiesAPI) and [react-sportybuddies](https://github.com/tbaran2001/react-sportybuddies)
+- 🔭 I’m currently working on [SportyBuddies-microservices](https://github.com/tbaran2001/SportyBuddies-microservices), [SportyBuddiesAPI](https://github.com/tbaran2001/SportyBuddiesAPI) and [react-sportybuddies](https://github.com/tbaran2001/react-sportybuddies)
 
-- 🌱 I’m currently learning **ASP .Net and React**
+- 🌱 I’m currently learning **ASP .Net, React and microservices**
 
 - 📫 How to reach me **barantomasz2001@gmail.com**
 
