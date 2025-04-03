@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tomek</h1>
-<h3 align="center">A computer science student from Poland</h3>
+<h3 align="center">Junior .Net Developer</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [SportyBuddies-microservices](https://github.com/tbaran2001/SportyBuddies-microservices), [SportyBuddiesAPI](https://github.com/tbaran2001/SportyBuddiesAPI) and [react-sportybuddies](https://github.com/tbaran2001/react-sportybuddies)
+- 🔭 I’m currently working on [SportyBuddies-microservices](https://github.com/tbaran2001/SportyBuddies-microservices)
 
-- 🌱 I’m currently learning **ASP .Net, React and microservices**
+- 🌱 I’m currently learning **.Net and microservices**
 
 - 📫 How to reach me **barantomasz2001@gmail.com**
 
